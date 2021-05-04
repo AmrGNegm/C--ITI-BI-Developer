@@ -1,0 +1,10 @@
+-A program to take a character from the user, and then display its ASCII code.
+-Same program but vice versa.
+-A program to take a num from user and display odd or even based on this num.
+-A program to take two numbers and print the sum, subtraction, multiplication.
+-A program to take student degree and calculate grade
+-Multiplication table
+
+
+
+
